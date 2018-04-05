@@ -4,4 +4,4 @@
 
 ### Expectation-Maximization Algorithm
 
-### Gaussian Mixture 
+### Gaussian Mixture Models
