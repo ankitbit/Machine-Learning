@@ -1,8 +1,8 @@
 # Machine Learning
 [Official Website](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/ML-MIRI)
 
-- [Lecture 1]()
-- [Lecture 2]()
+- [Lecture 1](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/1.%20Introduction%20to%20Machine%20Learning) : Introduction to Machine Learning
+- [Lecture 2](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/2.%20Theoretical%20Issues%20and%20Regression%20Analysis) : Theoretical Issues in Machine Learning and Regression Analysis
 - [Lecture 3](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/3.%20Linear%20Regression%20and%20Beyond) : Linear Regression and Beyond
 - [Lecture 4](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/4.%20Bayesian%20Decision%20Theory%20and%20Classification) : Bayesian Decision Theory and Classification 
 - [Lecture 5](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/5.%20Generative%20Bayesian%20Classifiers) : Generative Bayesian Classifiers: K-Nearest neighbours, Naive bayes, LDA/QDA/RDA 
