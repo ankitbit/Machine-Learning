@@ -16,3 +16,4 @@
 
 # Reference Courses
 * [10-601 : Machine Learning @ CMU](http://www.cs.cmu.edu/afs/cs/academic/class/10601-f10/index.html)- 
+* [Machine Learning Labs and Lectures @ Smith](http://www.science.smith.edu/~jcrouser/SDS293/)
