@@ -18,3 +18,7 @@
 * [10-601 : Machine Learning @ CMU](http://www.cs.cmu.edu/afs/cs/academic/class/10601-f10/index.html)- 
 * [Machine Learning Labs and Lectures @ Smith](http://www.science.smith.edu/~jcrouser/SDS293/)
 * [Standard Deviation Blog- By David Ziganto | Special focus on ML, Deep Learning, Programming in Python, Big Data etc. ](https://dziganto.github.io/)
+
+
+## Advanced Machine Learning
+[CMU](https://www.cs.cmu.edu/~epxing/Class/10715/lecture.html)
