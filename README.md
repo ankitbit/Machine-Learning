@@ -7,7 +7,7 @@
 - [Lecture 4](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/4.%20Bayesian%20Decision%20Theory%20and%20Classification) : Bayesian Decision Theory and Classification 
 - [Lecture 5](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/5.%20Generative%20Bayesian%20Classifiers) : Generative Bayesian Classifiers: K-Nearest neighbours, Naive bayes, LDA/QDA/RDA 
 - [Lecture 6](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/6.%20Discriminative%20Classifiers-%20Logistic%20Regression%20and%20Beyond) : Discriminative Classifiers: Logistic Regression and Beyond
-- [Lecture 7](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/7.%20Clustering%20Algorithms) : Probabilistic Clustering
+- [Lecture 7](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/7.%20Clustering%20Algorithms) : Probabilistic Clustering. Read more about the topic by accessing lectures of [Unsupervised Learning](http://mlg.eng.cam.ac.uk/zoubin/course05/index.html)
 - [Lecture 8](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/8.%20Learning%20with%20Kernels%20-%20SVM): Learning with Kernels (I) : Support Vector Machines
 
 
