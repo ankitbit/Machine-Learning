@@ -23,3 +23,4 @@
 ## Advanced Machine Learning
 [CMU](https://www.cs.cmu.edu/~epxing/Class/10715/lecture.html)
 [Cornell](http://www.cs.cornell.edu/courses/cs6787/2017fa/)
+[Ohio](http://ace.cs.ohio.edu/~razvan/courses/mlds18/index.html): Machine Learning for Data Science
