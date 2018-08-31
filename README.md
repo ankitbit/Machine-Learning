@@ -24,4 +24,4 @@
 [CMU](https://www.cs.cmu.edu/~epxing/Class/10715/lecture.html)
 [Cornell](http://www.cs.cornell.edu/courses/cs6787/2017fa/)
 [Ohio](http://ace.cs.ohio.edu/~razvan/courses/mlds18/index.html): Machine Learning for Data Science
-[Statistical Machine Learning](http://www.stats.ox.ac.uk/~teh/smldm.html)
+[Statistical Machine Learning](http://www.stats.ox.ac.uk/~teh/smldm.html) and more courses by same author [Courses](http://www.stats.ox.ac.uk/~teh/courses.html)
