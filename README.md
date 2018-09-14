@@ -1,6 +1,8 @@
 # Machine Learning
 [Official Website](https://www.fib.upc.edu/en/studies/masters/master-innovation-and-research-informatics/curriculum/syllabus/ML-MIRI)
 
+[KNN](https://kevinzakka.github.io/2016/07/13/k-nearest-neighbor/#more-on-k)
+
 - [Lecture 1](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/1.%20Introduction%20to%20Machine%20Learning) : Introduction to Machine Learning
 - [Lecture 2](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/2.%20Theoretical%20Issues%20and%20Regression%20Analysis) : Theoretical Issues in Machine Learning and Regression Analysis
 - [Lecture 3](https://github.com/ankitbit/Machine-Learning/tree/master/Lecture%20Notes/3.%20Linear%20Regression%20and%20Beyond) : Linear Regression and Beyond
@@ -25,3 +27,6 @@
 [Cornell](http://www.cs.cornell.edu/courses/cs6787/2017fa/)
 [Ohio](http://ace.cs.ohio.edu/~razvan/courses/mlds18/index.html): Machine Learning for Data Science
 [Statistical Machine Learning](http://www.stats.ox.ac.uk/~teh/smldm.html) and more courses by same author [Courses](http://www.stats.ox.ac.uk/~teh/courses.html)
+
+
+- [Classification with Scikit Learn](http://ataspinar.com/2017/05/26/classification-with-scikit-learn/)
