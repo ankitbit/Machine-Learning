@@ -31,3 +31,8 @@
 
 
 - [Classification with Scikit Learn](http://ataspinar.com/2017/05/26/classification-with-scikit-learn/)
+
+
+
+## Just for fun
+- [Shiring](https://shiring.github.io/categories.html#machine_learning-ref)
