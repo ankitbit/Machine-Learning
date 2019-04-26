@@ -32,7 +32,7 @@
 
 - [Classification with Scikit Learn](http://ataspinar.com/2017/05/26/classification-with-scikit-learn/)
 
-
+- [Introduction to Machine Learning (R)](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
 
 ## Just for fun
 - [Shiring](https://shiring.github.io/categories.html#machine_learning-ref)
