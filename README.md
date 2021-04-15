@@ -28,6 +28,7 @@
 [Cornell](http://www.cs.cornell.edu/courses/cs6787/2017fa/)
 [Ohio](http://ace.cs.ohio.edu/~razvan/courses/mlds18/index.html): Machine Learning for Data Science
 [Statistical Machine Learning](http://www.stats.ox.ac.uk/~teh/smldm.html) and more courses by same author [Courses](http://www.stats.ox.ac.uk/~teh/courses.html)
+[Machine Learning @University of British Columbia](https://ml.ubc.ca/mlrg/)
 
 
 - [Classification with Scikit Learn](http://ataspinar.com/2017/05/26/classification-with-scikit-learn/)
@@ -36,3 +37,4 @@
 
 ## Just for fun
 - [Shiring](https://shiring.github.io/categories.html#machine_learning-ref)
+- [](https://ml.ubc.ca/mlrg/)
