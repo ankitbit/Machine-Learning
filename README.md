@@ -23,6 +23,7 @@
 * [Standard Deviation Blog- By David Ziganto | Special focus on ML, Deep Learning, Programming in Python, Big Data etc. ](https://dziganto.github.io/)
 * [Deeply Thought](https://wrosinski.github.io/resources/): Resources for Deep Learning, Machine Learning
 * [Machine Learning for Statistics: SDGB 7847](http://www.cs.columbia.edu/~amoretti/7847s17.html)- Columbia University 
+* [Applied Machine Learning](http://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/)
 
 ## Advanced Machine Learning
 [CMU](https://www.cs.cmu.edu/~epxing/Class/10715/lecture.html)
